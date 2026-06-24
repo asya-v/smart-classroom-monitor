@@ -57,6 +57,17 @@ The program:
 * writes data to `people_log.txt`;
 * saves overcrowding screenshots in the `screenshots` folder.
 
+## Demo
+
+### Classroom Occupancy Detection
+
+![Classroom detection](images/classroom-detection.jpg)
+
+### People Counter Interface
+
+![People counter interface](images/counter-interface.jpg)
+
+
 ## Status
 
 Educational computer vision project created during an AI Engineering course at American Corner & Makerspace Astana.
